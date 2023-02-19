@@ -1,0 +1,6 @@
+(executable
+  ; (public_name demo)
+  (name demo)
+  (libraries cohttp-lwt-unix)
+  (foreign_archives gmp)
+  )
