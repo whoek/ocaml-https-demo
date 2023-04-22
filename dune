@@ -2,7 +2,7 @@
   ; (public_name demo)
   (name demo)
   (libraries cohttp-lwt-unix)
-  (ocamlopt_flags (:standard -O3))
+;  (ocamlopt_flags (:standard -O3))
 ; (link_flags (-linkall))   ; > 17MB else 16.453
-  (foreign_archives gmp)
+;  (foreign_archives gmp)
   )
