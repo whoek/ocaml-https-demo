@@ -1,10 +1,14 @@
 # ocaml-https-demo
 
-Create OCaml program that do a GET request from a https website
+Simple OCaml program that do a GET request from a https website
+
+# Usage
 
 ```
-# Tested OK with Ocaml 4.12.0 
+git clone git@github.com:whoek/https-demo.git
+cd https-demo
 
-opam build
-
+opam install dune cohttp-lwt-unix tls-lwt
+dune build
+dune exec ./demo.exe
 ```
