@@ -1,6 +1,6 @@
 # ocaml-https-demo
 
-Simple OCaml program that do a GET request from a https website
+Simple OCaml program that do a GET request to a https website
 
 # Usage
 
