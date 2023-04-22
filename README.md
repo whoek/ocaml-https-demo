@@ -31,7 +31,7 @@ Received body
   "headers": {
     "Host": "httpbin.org", 
     "User-Agent": "ocaml-cohttp/5.1.0", 
-    "X-Amzn-Trace-Id": "Root=1-64439bcf-542cc80716d658c25e7de3b6"
+    "X-Amzn-Trace-Id": "Root=1-64439bfc-542cc80716d658c25e7de3b6"
   }, 
   "origin": "xxx.xxx.xxx.xxx", 
   "url": "https://httpbin.org/get"
