@@ -5,7 +5,7 @@ Simple OCaml program that do a hhtps GET request.
 # Usage
 
 ```
-git git@github.com:whoek/ocaml-https-demo.git
+git clone git@github.com:whoek/ocaml-https-demo.git
 cd ocaml-https-demo
 
 opam install dune cohttp-lwt-unix tls-lwt
