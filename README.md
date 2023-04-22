@@ -5,8 +5,8 @@ Simple OCaml program that do a GET request from a https website
 # Usage
 
 ```
-git clone git@github.com:whoek/https-demo.git
-cd https-demo
+git git@github.com:whoek/ocaml-https-demo.git
+cd ocaml-https-demo
 
 opam install dune cohttp-lwt-unix tls-lwt
 dune build
